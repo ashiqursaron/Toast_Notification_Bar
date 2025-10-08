@@ -4,7 +4,7 @@ A simple and stylish toast notification bar built with HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-[View Live Project](https://your-live-link-here.com)
+[View Live Project](https://ashiqursaron.github.io/Toast_Notification_Bar/)
 
 ## Features
 
